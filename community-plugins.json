@@ -4450,7 +4450,7 @@
         "description": "Render echarts in obsidian",
         "repo": "cumany/obsidian-echarts"
     },
-    {
+   {
         "id": "obsidian-better-internal-link-inserter",
         "name": "Obsidian Better Internal Link Inserter",
         "author": "Salmund",
